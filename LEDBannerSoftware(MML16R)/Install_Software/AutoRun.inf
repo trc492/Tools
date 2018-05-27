@@ -1,0 +1,12 @@
+[autorun]
+open=autorun.exe
+
+[AuthRT]
+RTSetup=1
+PromptBeforeSetup=0
+
+[AuthDriver]
+ExecCount=1
+
+[AuthAppl]
+ExecCmd=welcome.exe

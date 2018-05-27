@@ -1,0 +1,5 @@
+=> Copy the file "NewSign V2.2_Has_255COM.INI and past it to this location: C:\Program Files\New Sign
+=> Copy the file "NewSign V2.2_Has_255COM.exe and paste it to this location C:\Program Files\New Sign
+=> Make shortcut of "NewSign V2.2 Has_255Com.exe" to desktop. If you want, you can rename the name 
+      of shortcut file to New Sign.
+=> Original file of application (Only exe-file!) can be deleted as well.

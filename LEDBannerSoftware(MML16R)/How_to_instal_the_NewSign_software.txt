@@ -1,0 +1,21 @@
+=> 1) Open folder => "Install_Software".
+
+=>  2) Connect the Message board (MMLxxx) to a USB port of PC.
+
+=> 3) Instal the new driver first => See folder "New_driver_WinXP_SP2_3_Vista_Win7_32_64bit", and run the application
+         "CP210x_VCP_Win_XP_S2K3_Vista_7.exe". Follow now the instructions of the wizard.
+
+                Note: For users of Windows Vista or Windows 7 => Give right mouse click on
+                "CP210x_VCP_Win_XP_S2K3_Vista_7.exe", and choose the option "Run as administrator".
+                Follow now the instructions of the wizard.
+
+=> 4) Go to opened folder "Install_software" and run "setup.exe" to install the software. Follow now the instructions of 
+         the wizard.
+
+	Note: For users of Windows Vista or Windows 7 => Give right mouse click on "setup.exe", and 
+	choose the option "Run as administrator". Follow now the instructions of wizard.
+
+=> 5) After installation, update the software => go to folder "Update_For_New_sign_to_255COM_ports" for
+         further instructions.
+
+ 
